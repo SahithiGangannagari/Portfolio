@@ -6,3 +6,5 @@
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
+  Portfolio [live](https://sahithigangannagari.github.io/Portfolio/)
+
